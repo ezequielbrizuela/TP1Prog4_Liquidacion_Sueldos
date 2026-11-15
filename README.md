@@ -9,11 +9,11 @@ Ing. / Lic. En Sistemas de Información | Programación  IV | Departamento: Cien
 - Ayudante de 1ra. Esp. Lic. Ariel Santillán Escudero
 
 ## Integrantes:
-- Peña Kevin Matías		Matr.: EISI577
-- Casimiro Juan Ignacio         Matr.: EISI1439
-- Brizuela Marco Ezequiel	Matr.: EISI676 	
-- Pérez Valentina		Matr.: ELSI1240
-- Pérez Joaquín		Matr.: EISI852
+- Peña Kevin Matías    |    Matr.: EISI577
+- Casimiro Juan Ignacio   |    Matr.: EISI1439
+- Brizuela Marco Ezequiel    |    Matr.: EISI676 	
+- Pérez Valentina    |    Matr.: ELSI1240
+- Pérez Joaquín    |    Matr.: EISI852
 
 
 ## Descripción
