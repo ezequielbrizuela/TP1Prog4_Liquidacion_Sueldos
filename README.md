@@ -1,8 +1,6 @@
 # TP Nº 1 — Liquidación de sueldos
 
-Ing. / Lic. En Sistemas de Información
-Programación  IV
-Departamento: Ciencias Exactas, Físicas y Naturales. 
+Ing. / Lic. En Sistemas de Información | Programación  IV | Departamento: Ciencias Exactas, Físicas y Naturales. 
 
 ## Docentes: 
 - Prof. Esp. Lic. Miguel Angel Molina
