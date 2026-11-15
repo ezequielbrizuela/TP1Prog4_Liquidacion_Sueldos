@@ -1,5 +1,23 @@
 # TP Nº 1 — Liquidación de sueldos
 
+Ing. / Lic. En Sistemas de Información
+Programación  IV	
+Departamento: Ciencias Exactas, Físicas y Naturales. 
+
+## Docentes: 
+- Prof. Esp. Lic. Miguel Angel Molina
+- JTP Lic. Cristian Alberto Oliva
+- Ayudante de 1ra. Ing. Sira Yanel de la Vega
+- Ayudante de 1ra. Esp. Lic. Ariel Santillán Escudero
+
+## Integrantes:
+- Peña Kevin Matías		Matr.: EISI577
+- Casimiro Juan Ignacio         Matr.: EISI1439
+- Brizuela Marco Ezequiel	Matr.: EISI676 	
+- Pérez Valentina		Matr.: ELSI1240
+- Pérez Joaquín		Matr.: EISI852
+
+
 ## Descripción
 Microsistema en PHP que recibe una **categoría (A-D)** y una **antigüedad (1 a 30 años)**, calcula haberes, descuentos y sueldo neto, y presenta una liquidación en pantalla con Bootstrap 5.
 
