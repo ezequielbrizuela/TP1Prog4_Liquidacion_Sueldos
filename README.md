@@ -1,7 +1,7 @@
 # TP Nº 1 — Liquidación de sueldos
 
 Ing. / Lic. En Sistemas de Información
-Programación  IV	
+Programación  IV
 Departamento: Ciencias Exactas, Físicas y Naturales. 
 
 ## Docentes: 
